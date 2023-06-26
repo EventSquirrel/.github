@@ -23,9 +23,3 @@ App users search through a list of registered events and choose any number to "b
 Many local event organizers are putting together small yearly events with shoe string budgets and would never dream of having a custom mobile app built for them. Companies that create event mobile apps are all taking a similar approach of offering custom tailored, highly complex, branded experiences that could only be within the budget of enterprise-backed events [[1]](https://spotme.com/product/event-app/)[[2]](https://www.bizzabo.com/product/mobile-event-app)[[3]](https://www.crowdcomms.com/event-technology/)[[4]](https://whova.com/whova-event-app/)[[5]](https://www.app4event.com/conference).  
 
 But what if there was a free (for the foreseeable future) one-size-fits-everyone-else solution that just worked? Imagine how many events would jump on board. Imagine how many event attendees would have their experiences improved by having scheduling and event information easily accessible on their personal device?
-
-## Comp Apps
-
-Here are some comparable example apps to look to as examples:
-- [Chain React event app](https://github.com/infinitered/ChainReactApp2023)
-- [Dragon*Con app](https://apps.apple.com/us/app/dragon-con/id898937808)
